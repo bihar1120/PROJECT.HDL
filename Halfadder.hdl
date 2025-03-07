@@ -4,4 +4,4 @@ CHIP HALFADDER{
   PARTS:
   Xor(a=a,b=b,out=sum);
   And(a=a,b=b,out=carry);
-}
+} 
